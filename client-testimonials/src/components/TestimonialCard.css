@@ -1,0 +1,10 @@
+.testimonials{
+    font-size: xx-large;
+}
+
+.card{
+    border: 20px;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(153, 99, 33);
+}
